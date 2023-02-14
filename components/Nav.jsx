@@ -84,10 +84,10 @@ export default function Nav() {
           } transition-all flex-wrap lg:hidden`}
         >
           <div className="py-[.5px] w-64">
-            <div className="w-full py-4 space-y-6 px-2 text-gray-900 bg-white min-h-screen  text-left capitalize font-medium shadow-lg">
+            <div className="w-full py-4 space-y-6 px-2 text-gray-900 bg-white min-h-screen  text-left capitalize font-medium shadow-lg ">
               {/* Logo */}
               <div>
-                <h1>Remotely.</h1>
+                <h1 className="font-semibold text-3xl text-purple">Remotely.</h1>
               </div>
 
               {/* Links */}
@@ -97,12 +97,11 @@ export default function Nav() {
                   href={link}
                   className={`px-2 flex items-center cursor-pointer hover:bg-gray-200 hover:text-gray-700 text-sm rounded `}
                 >
-                  <span className="mx-1">{title}</span>
+                  <span className="mx-1 text-lg font-normal">{title}</span>
                 </Link>
               ))}
               <Link
-                href="/login"
-                className="w-24 h-9 grid text-lg place-items-center bg-white"
+                href="/login" className="w-24 h-9 grid text-sm font-normal place-items-center text-white bg-purple"
               >
                 Login
               </Link>
