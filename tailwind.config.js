@@ -8,6 +8,11 @@ module.exports = {
       purple: "#442AF9",
       white: "#FFFFFF"
     },
+    fontSize: {
+      '3xl': '32px',
+      'lg': '15px',
+      '5xl': '34px',
+    },
     extend: {},
   },
   variants: {
