@@ -1,4 +1,5 @@
 import Head from 'next/head';
+import HeroSection from '../components/HeroSection';
 import Nav from '../components/Nav';
 import styles from '../styles/Home.module.css';
 
@@ -13,6 +14,7 @@ export default function Home() {
       
     <div>
       <Nav/>
+      <HeroSection/>
     </div>
 
     </div>

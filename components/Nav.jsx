@@ -84,7 +84,7 @@ export default function Nav() {
           } transition-all flex-wrap lg:hidden`}
         >
           <div className="py-[.5px] w-64">
-            <div className="w-full py-4 space-y-6 px-2 text-gray-900 bg-white min-h-screen  text-left capitalize font-medium shadow-lg ">
+            <div className="w-full py-4 space-y-6 px-2 text-gray-900 bg-white min-h-screen text-left capitalize font-medium shadow-lg">
               {/* Logo */}
               <div>
                 <h1 className="font-semibold text-3xl text-purple">Remotely.</h1>
