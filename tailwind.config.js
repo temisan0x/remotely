@@ -6,7 +6,8 @@ module.exports = {
   theme: {
     colors: {
       purple: "#442AF9",
-      white: "#FFFFFF"
+      white: "#FFFFFF",
+      grey: "#E7E7E7"
     },
     fontSize: {
       '3xl': '32px',

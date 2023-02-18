@@ -5,7 +5,7 @@ import Image from "next/image";
 
 export default function HeroSection() {
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex justify-between items-center lg:flex-col">
       <div class="w-[50%] p-10">
         <h1 className="text-xl font-bold">
           High-quality Project Based Education For Everyone.
@@ -17,7 +17,7 @@ export default function HeroSection() {
           that builds destiny-ready talents.
         </p>
         <div className="mt-8">
-        <Link href='/' className="bg-purple p-5 ">Join us now!</Link>
+        <Link href='/' className="bg-grey p-4 px-12 hover:bg-purple poppins">Join us now!</Link>
         </div>
       </div>
       <div className="w-[50%]">
