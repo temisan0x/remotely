@@ -1,9 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600&display=swap');
 
 *, html {
     margin: 0;
@@ -14,7 +14,7 @@
 body {
     font-size: 16px;
     background-color: white;
-    font-family: 'Satisfy', cursive;
+    font-family: 'Poppins', sans-serif;
 }
 
 a > span {
@@ -28,4 +28,28 @@ h1 {
 
 .poppins {
     font-family: 'Poppins', sans-serif;
+}
+
+.eclipes {
+    right: 100px;
+}
+
+
+
+@media screen and (max-width:1200px){
+    .eclipes {
+        right: 70px;
+    }
+}
+
+@media screen and (max-width:980px){
+    .eclipes {
+        right: 10px;
+    }
+}
+
+@media screen and (max-width:700px){
+    .eclipes {
+        right: 70px;
+    }
 }
