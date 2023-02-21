@@ -1,6 +1,7 @@
 import Head from 'next/head';
 import FeaturesBlock from '../components/FeaturesBlocks';
 import HeroSection from '../components/HeroSection';
+import Explore from '../components/Explore'
 import Nav from '../components/Nav';
 import styles from '../styles/Home.module.css';
 
@@ -17,6 +18,7 @@ export default function Home() {
       <Nav/>
       <HeroSection/>
       <FeaturesBlock/>
+      <Explore/>
     </div>
 
     </div>
