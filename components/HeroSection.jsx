@@ -12,7 +12,7 @@ export default function HeroSection() {
             <h1 className="text-3xl font-bold">
               High-quality Project Based Education For Everyone.
             </h1>
-            <p className="text-[19px] mt-5 w-[90%]">
+            <p className="md:text-[19px] mt-5 md:w-[90%]">
               At Remotely, our mission is to power pupil engagement and
               fulfillment via actual-global venture-primarily based studying. We
               provide instructors with the tools they need to put into effect
