@@ -22,12 +22,13 @@ export default function FeaturesBlock() {
             </div>
           </div>
           <div className="md:w-[50%] relative">
-            <div className="w-[100px] h-[100px] absolute bg-[#F9AF33] opacity-30 rounded-full eclipes"></div>
+            <div className="w-[80px] h-[80px] absolute bg-[#F9AF33] opacity-30 rectangle"></div>
             <Image
               src={FeaturedImg}
               alt="Hero Image"
               className="mx-auto object-cover w-full h-[300px]"
             />
+              <div className="w-[80px] h-[80px] absolute bg-[#442AF9] opacity-30 rectangleTwo"></div>
           </div>
         </div>
       </div>
