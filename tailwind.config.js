@@ -10,10 +10,11 @@ module.exports = {
       grey: "#E7E7E7"
     },
     fontSize: {
-      '3xl': '32px',
-      'lg': '15px',
-      '5xl': '34px',
-      'xl': '50px'
+      '2xl': '30px',
+      '3xl': '34px',
+      '4xl': '60px',
+      // '7xl':'72px',
+      // 'xl': '50px',
     },
     extend: {},
   },

@@ -4,6 +4,7 @@ import HeroSection from '../components/HeroSection';
 import Explore from '../components/Explore'
 import Nav from '../components/Nav';
 import styles from '../styles/Home.module.css';
+import ContactUs from '../components/ContactUs';
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
       <HeroSection/>
       <FeaturesBlock/>
       <Explore/>
+      <ContactUs/>
     </div>
 
     </div>

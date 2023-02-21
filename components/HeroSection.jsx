@@ -9,10 +9,10 @@ export default function HeroSection() {
       <div className="container mx-auto px-4 py-24 sm:px-6 lg:px-8">
         <div className="md:flex md:justify-between md:items-center">
           <div class="md:w-[50%] mb-10">
-            <h1 className="text-5xl md:text-4xl font-bold poppins">
+            <h1 className="text-3xl font-bold">
               High-quality Project Based Education For Everyone.
             </h1>
-            <p className="text-[19px] mt-5 poppins w-[90%]">
+            <p className="text-[19px] mt-5 w-[90%]">
               At Remotely, our mission is to power pupil engagement and
               fulfillment via actual-global venture-primarily based studying. We
               provide instructors with the tools they need to put into effect
@@ -21,7 +21,7 @@ export default function HeroSection() {
             <div className="my-10">
               <Link
                 href="/"
-                className="bg-grey p-4 px-12 hover:bg-purple poppins font-bold"
+                className="bg-grey p-4 px-12 font-bold"
               >
                 Join us now!
               </Link>

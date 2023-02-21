@@ -7,6 +7,7 @@ export default function FeaturesBlock() {
   return (
     <section>
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <h1 className="text-2xl font-bold ">What is Remotely</h1>
         <div className="md:flex md:flex-row-reverse md:justify-between md:items-center">
           <div class="md:w-[50%] md:px-10">
             <p className="text-[19px] mt-5 poppins w-[80%]">
@@ -26,7 +27,7 @@ export default function FeaturesBlock() {
             <Image
               src={FeaturedImg}
               alt="Hero Image"
-              className="mx-auto object-cover w-full h-[300px]"
+              className="mx-auto object-cover w-full h-[300px] py-10"
             />
               <div className="w-[80px] h-[80px] absolute bg-[#442AF9] opacity-30 rectangleTwo"></div>
           </div>
