@@ -6,7 +6,7 @@ export default function FeaturesBlock() {
   return (
     <section>
       <div className="container py-24 mx-auto px-4 sm:px-6 lg:px-8">
-        <h1 className="text-5xl md:text-4xl font-bold poppins">
+        <h1 className="text-2xl md:text-4xl font-bold poppins">
           Explore Remotely
         </h1>
         <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 py-10 mx-auto">

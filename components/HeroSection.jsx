@@ -28,11 +28,11 @@ export default function HeroSection() {
             </div>
           </div>
           <div className="md:w-[50%] relative">
-            <div className="w-[100px] h-[100px] absolute bg-[#F9AF33] opacity-30 rounded-full eclipes"></div>
+            <div className="w-[100px] h-[100px] absolute bg-[#F9AF33] opacity-30 rounded-full eclipes md:block hidden"></div>
             <Image
               src={HeroImg}
               alt="Hero Image"
-              className="mx-auto rounded-full object-cover w-[400px] h-[400px]"
+              className="mx-auto md:rounded-full object-cover md:w-[400px] md:h-[400px]"
             />
           </div>
         </div>
