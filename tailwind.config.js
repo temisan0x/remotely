@@ -7,9 +7,11 @@ module.exports = {
     colors: {
       purple: "#442AF9",
       white: "#FFFFFF",
-      grey: "#E7E7E7"
+      grey: "#E7E7E7",
+      orange: "#FBC974"
     },
     fontSize: {
+      '1xl': '15px',
       '2xl': '30px',
       '3xl': '34px',
       '4xl': '60px',

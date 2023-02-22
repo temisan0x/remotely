@@ -56,21 +56,17 @@ export default function Nav() {
               Login
             </Link>
           </div>
-
-          {/* After all nav links if you want any button in right then it will come here */}
           <div></div>
-
-          {/* Hamberger Menu  */}
           <div className="lg:hidden transition-all mr-3 my-3 cursor-pointer hover:text-gray-700">
             {isMobileNavOpen ? (
               <AiOutlineMenuFold
                 onClick={() => setisMobileNavOpen(false)}
-                className="rounded text-5xl text-white hover:skew-y-12"
+                className="rounded text-3xl text-white hover:skew-y-12"
               />
             ) : (
               <AiOutlineMenuUnfold
                 onClick={() => setisMobileNavOpen(true)}
-                className="rounded text-5xl text-white hover:skew-y-12"
+                className="rounded text-3xl text-white hover:skew-y-12"
               />
             )}
           </div>

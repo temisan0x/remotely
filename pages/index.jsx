@@ -5,6 +5,8 @@ import Explore from '../components/Explore'
 import Nav from '../components/Nav';
 import styles from '../styles/Home.module.css';
 import ContactUs from '../components/ContactUs';
+import Footer from '../components/Footer';
+import NewsLetter from '../components/NewsLetter';
 
 export default function Home() {
   return (
@@ -21,6 +23,8 @@ export default function Home() {
       <FeaturesBlock/>
       <Explore/>
       <ContactUs/>
+      <NewsLetter/>
+      <Footer/>
     </div>
 
     </div>
