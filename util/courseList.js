@@ -40,41 +40,11 @@ export const dataList = [
     }
   },
   {
-    course: "IOS Developer",
-    numberOfCourses: 25,
-    imageCourse :{
-      src: IosDeveloper,
-      alt: "IOS",
-      width: 150,
-      height: 150
-    }
-  },
-  {
-    course: "Cloud Developer",
-    numberOfCourses: 19,
-    imageCourse :{
-      src: CloudDeveloper,
-      alt: "Cloud",
-      width: 150,
-      height: 150
-    }
-  },
-  {
     course: "Software Developer",
     numberOfCourses: 30,
     imageCourse :{
       src: SoftwareDeveloper,
       alt: "Software",
-      width: 150,
-      height: 150
-    }
-  },
-  {
-    course: "IOS Developer",
-    numberOfCourses: 5,
-    imageCourse :{
-      src: IosDeveloper,
-      alt: "IOS",
       width: 150,
       height: 150
     }
