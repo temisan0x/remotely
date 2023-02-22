@@ -16,7 +16,7 @@ export default function FeaturesBlock() {
             <div className="my-10">
               <Link
                 href="/"
-                className="bg-grey p-4 px-12 hover:bg-purple poppins font-bold"
+                className="bg-grey p-4 px-12 poppins font-bold"
               >
                 Learn more
               </Link>
