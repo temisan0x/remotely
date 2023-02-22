@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Courses from "../components/Courses";
-import { dataList } from "../api/courseList";
+import { dataList } from "../util/courseList";
 
 export default function FeaturesBlock() {
   return (

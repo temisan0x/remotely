@@ -1,8 +1,3 @@
-import React, { useState } from "react";
-import FeaturedImg from "../assets/featured-remotely.jpg";
-import Link from "next/link";
-import Image from "next/image";
-
 export default function Footer() {
   return (
     <footer class="bg-gray-900 text-gray-500 container pt-14 mx-auto px-4 sm:px-6 lg:px-8">
