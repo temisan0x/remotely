@@ -10,7 +10,7 @@ export default function NewsLetter() {
              Remotely.
             </h1>
             <p className="text-1xl mt-5 poppins w-[90%]">
-            We've got the solution: world-class training and development programs developed by top universities and companies.
+            We&apos;ve got the solution: world-class training and development programs developed by top universities and companies.
             </p>
           </div>
           <div className="md:w-1/3 relative">

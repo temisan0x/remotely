@@ -11,7 +11,7 @@ export default function FeaturesBlock() {
         <div className="md:flex md:flex-row-reverse md:justify-between md:items-center">
           <div class="md:w-[50%] md:px-10">
             <p className="md:text-[19px] mt-5 poppins md:w-[80%]">
-                Remotely isn't like the conventional establishments. We're a school for people seeking to benefit technical capabilities and kickstart a new career. Remotely takes a non-conventional approach to studying via coaching guides directly linked with the selected tune.
+                Remotely isn&apos;t like the conventional establishments. We&apos;re a school for people seeking to benefit technical capabilities and kickstart a new career. Remotely takes a non-conventional approach to studying via coaching guides directly linked with the selected tune.
             </p>
             <div className="my-10">
               <Link
