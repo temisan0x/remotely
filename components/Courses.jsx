@@ -9,6 +9,7 @@ export default function Courses({ course, numberOfCourses, imageCourse }) {
         alt="course images"
         width={imageCourse.width}
         height={imageCourse.height}
+        priority
       />
       <div className="p-6">
         <h1>{course}</h1>

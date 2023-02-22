@@ -28,6 +28,7 @@ export default function FeaturesBlock() {
               src={FeaturedImg}
               alt="Hero Image"
               className="mx-auto object-cover w-full h-[400px] py-10"
+              priority
             />
               <div className="w-[80px] h-[80px] absolute bg-[#442AF9] opacity-30 rectangleTwo"></div>
           </div>

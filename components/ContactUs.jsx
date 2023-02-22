@@ -31,6 +31,7 @@ export default function ContactUs() {
               src={ContactImg}
               alt="contact Image"
               className="mx-auto object-cover w-full h-[400px] bg-blend-saturation"
+              priority
             />
           </div>
         </div>

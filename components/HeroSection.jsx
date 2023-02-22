@@ -33,6 +33,7 @@ export default function HeroSection() {
               src={HeroImg}
               alt="Hero Image"
               className="mx-auto md:rounded-full object-cover md:w-[400px] md:h-[400px]"
+              priority
             />
           </div>
         </div>
