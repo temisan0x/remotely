@@ -42,19 +42,3 @@ export default function HeroSection() {
   );
 }
 
-{
-  /* <section class="bg-gray-900">
-<div class="container mx-auto px-4 py-24 sm:px-6 lg:px-8">
-  <div class="md:flex md:items-center md:justify-between">
-    <div class="md:w-1/2">
-      <h1 class="text-4xl font-bold text-white mb-4 sm:text-5xl sm:mb-6">Welcome to My Website</h1>
-      <p class="text-lg text-gray-300 mb-6">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam sed ipsum ac tellus ornare ultricies sit amet in velit. Praesent ullamcorper felis sed sapien imperdiet, vel aliquet tortor semper.</p>
-      <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Get Started</button>
-    </div>
-    <div class="md:w-1/2">
-      <Image class="mx-auto" src={HeroImg} alt="Hero Image" width="400" height={"400"}/>
-    </div>
-  </div>
-</div>
-</section> */
-}

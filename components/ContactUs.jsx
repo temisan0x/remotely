@@ -9,7 +9,7 @@ export default function ContactUs() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="md:flex md:justify-between md:items-center">
           <div class="md:w-[50%] mb-10">
-            <h1 className="md:text-4xl text-2xl poppins text-[#3E3C3B] font-bold">
+            <h1 className="md:text-5xl text-2xl poppins text-[#3E3C3B] font-bold">
               Contact Us
             </h1>
             <p className="text-[19px] mt-5 poppins w-[90%]">

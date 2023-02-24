@@ -37,7 +37,7 @@ export default function Nav() {
           </div>
           <div className="px-2 w-full justify-end lg:flex gap-x-5 items-center text-gray-900 font-medium capitalize hidden">
             {/* Links */}
-            {navLinks?.map(({ title, link, icon }, id) => (
+            {navLinks?.map(({ title, link }, id) => (
               <Link
                 key={id}
                 href={link}
