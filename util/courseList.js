@@ -59,7 +59,7 @@ export const dataList = [
     }
   },
   {
-    course: "CyberSecurity",
+    course: "Cyber Security",
     numberOfCourses: 20,
     imageCourse :{
       src: CyberSecurity,
