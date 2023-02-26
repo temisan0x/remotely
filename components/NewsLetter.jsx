@@ -35,7 +35,7 @@ export default function NewsLetter() {
               </button>
             </form>
             <div>
-              <p className="text-1xl mt-5">By signing up, you agree to our Terms of Service and Privacy Policy. You will receive offers from Wimdu and agree that we may share your hashed email address with third parties for the purpose of better tailoring advertising to your needs.</p>
+              <p className="text-1xl mt-5">By signing up, you agree to our Terms of Service and Privacy Policy. You will receive offers from Remotely and agree that we may share your hashed email address with third parties for the purpose of better tailoring advertising to your needs.</p>
             </div>
           </div>
         </div>

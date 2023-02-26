@@ -10,8 +10,8 @@ export default function Footer() {
           </div>
           <div class=" md:px-4 py-5">
             <h4 class="text-lg mb-4">About Us</h4>
-            <h4 class="text-lg mb-4">Our Story</h4>
-            <h4 class="text-lg mb-4">Blog</h4>
+            <h4 class="text-lg mb-4 border-b-2 border-blue-500">Our Story</h4>
+            <h4 class="text-lg mb-4 border-b-2 border-blue-500">Blog</h4>
           </div>
           <div class=" md:px-4">
             <h4 class="text-lg mb-4">Follow Us</h4>
