@@ -9,7 +9,7 @@ export default function FeaturesBlock() {
         <h1 className="text-2xl md:text-5xl font-bold poppins">
           Explore Remotely
         </h1>
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4 py-10 mx-auto">
+        <div className="grid custom-grid md:grid-cols-3 gap-4 py-10 mx-auto">
           {dataList.map((data) => {
             return (
               <Courses
